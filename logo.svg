@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 130" role="img" aria-label="Minneapolis Concrete Contractors">
+  <g fill="none" fill-rule="evenodd">
+    <g transform="translate(8, 5)">
+      <rect x="18" y="48" width="84" height="44" rx="8" fill="#5a5a5a"/><ellipse cx="60" cy="48" rx="38" ry="22" fill="#b45309"/><circle cx="60" cy="48" r="10" fill="#3a3a3a"/><rect x="8" y="78" width="18" height="12" rx="3" fill="#4a4a4a"/><rect x="94" y="78" width="18" height="12" rx="3" fill="#4a4a4a"/>
+    </g>
+    <line x1="138" y1="18" x2="138" y2="112" stroke="#b45309" stroke-width="3" stroke-linecap="round" opacity="0.35"/>
+    <g font-family="Arial Black, Helvetica Neue, Arial, sans-serif" text-anchor="start">
+      <text x="150" y="70" font-size="28" font-weight="800" fill="#1f1f1f" letter-spacing="0.8">MINNEAPOLIS</text>
+      <text x="150" y="106" font-size="15" font-weight="700" fill="#b45309" letter-spacing="2.8">CONCRETE CONTRACTORS</text>
+    </g>
+  </g>
+</svg>
